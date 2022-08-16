@@ -22,7 +22,7 @@ tokio = "1.9.0"
 
 reqwest = { version = "0.11.3", features = ["json"] }
 
-r2d2 = "0.8.9"
+r2d2 = "0.8.10"
 redis = { version = "0.20", features = ["r2d2"] }
 
 ethcontract-common = "0.14.0"
