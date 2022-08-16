@@ -542,9 +542,9 @@ dependencies = [
 
 [[package]]
 name = "ethcontract-common"
-version = "0.14.0"
+version = "0.15.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1398231b1b8c21ec3e4e8da2fd501357de132e289bff2fa44f9735107e499db3"
+checksum = "6de455ea7e83c0e712718b606dbd0caafffa59205cd3df2cdf15ff378cd527f3"
 dependencies = [
  "ethabi",
  "hex",
